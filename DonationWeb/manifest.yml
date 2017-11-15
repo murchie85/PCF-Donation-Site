@@ -1,0 +1,5 @@
+---
+applications:
+- name: psdw
+  memory: 128MB
+  instances: 1
